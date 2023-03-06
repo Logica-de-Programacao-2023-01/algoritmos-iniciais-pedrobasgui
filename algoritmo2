@@ -1,7 +1,10 @@
 Algoritmo conversão de temperatura
 
-1.Leia celsius
-2.celsius = x
-3.farenheit = y
-4.resultado = x/5 = (y - 32)/9
-4.Escreva resultado
+1.Leia valor
+2.Leia unidade
+3.Se unidade igual a celsius:
+4.	resultado = valor * 1.8 + 32
+5.	Escreva resultado
+6.Senão:
+7.	resultado = (valor - 32)/1.8
+8.	Escreva resultado
