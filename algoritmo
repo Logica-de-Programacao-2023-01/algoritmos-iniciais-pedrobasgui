@@ -1,0 +1,7 @@
+Algoritmo solução soma
+
+1.Leia x
+2.Leia y
+3.resultado = x + y
+4.Escreva resultado
+5.Fim 
