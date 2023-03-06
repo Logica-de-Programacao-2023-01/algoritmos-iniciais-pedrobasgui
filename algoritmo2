@@ -1,0 +1,7 @@
+Algoritmo conversão de temperatura
+
+1.Leia celsius
+2.celsius = x
+3.farenheit = y
+4.resultado = x/5 = (y - 32)/9
+4.Escreva resultado
